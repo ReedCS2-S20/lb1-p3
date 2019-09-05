@@ -58,8 +58,8 @@ You can do the same, or whatever. Compile and run to see if your change works.
 **Exercise 2:** It's the final count down.  
 The C program `countDown.cc` asks the user for an integer, and then counts up
 to that value. But the code was *supposed* to have it count the other way.
-Change the code that it instead counts down from the entered number, down to
-1.  It should do something like the following:
+Change the code that it instead counts down from the entered number, down to 1.
+It should do something like the following:
 
     Enter the starting count: 5
     5
