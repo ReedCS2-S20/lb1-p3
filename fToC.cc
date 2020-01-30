@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main(void) {
 
   int f;
   std::cout << "Enter a temperature in degrees fahrenheit: ";
