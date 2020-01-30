@@ -2,7 +2,7 @@
 #include <ctime>    // For time()
 #include <cstdlib>  // For srand() and rand()
 
-int main() {
+int main(void) {
   
   srand(time(0));
   
