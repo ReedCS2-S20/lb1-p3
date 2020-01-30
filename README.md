@@ -1,12 +1,17 @@
 # Lab 1 Part 3 Exercises
 
-*Exercises 1, 2, and 3 should be completed by 9/6 at 3pm*
+*Attempt to complete exercises 1-4 by 1/31 at 3pm*
  
 This repository contains a collection of C files for the exercises
 you are to complete for the third part of the first laboratory meeting.
 Try to complete as many exercises as you can in the lab period, and
-complete the first three before the next lecture. The fourth is an
-extra exercise that you can work to complete, too.
+complete them before the next lecture. If you have problems,
+seek help from me or a TA,
+
+Note that I haven't really taught you C yet. But, that's okay: I'm
+confident you can get these all working on your own or with a little
+help. Whatever you don't complete, no worries, just use this activity
+to ask good questions in lecture.
 
 On the original Lab 1 pages, which you are probably in the midst of
 working through, you will also be learning how to obtain this repository
@@ -87,8 +92,6 @@ celsius, and reports its integer equivalent in degrees fahrenheit.
 ---
 
 **Exercise 4:** I guess so.
-
-This is a BONUS exercise but feel free to work on it during lab, or after.
 
 The C program `guess.cc` picks a random number from 1 to 100, and then helps the
 user try to guess that number. Modify the program so that the user gets a limited
